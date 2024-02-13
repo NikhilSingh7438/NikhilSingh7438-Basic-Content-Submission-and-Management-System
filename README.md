@@ -1,4 +1,4 @@
-# Evallo Content Management System
+#  Content Management System
 
 ## Overview
 Evallo is a content management system designed for tutoring businesses, allowing them to manage educational content through a single platform. This repository contains the code for the Evallo application, featuring a content submission form, content preview functionality, and the ability to delete content submissions.
